@@ -16,7 +16,7 @@ It is created using the graphics library of c.
 
 ![Screenshot (454)](https://user-images.githubusercontent.com/60145175/110323444-a0d98300-803a-11eb-80d3-7d4929a3a00e.png)
 
-![Screenshot (455)](https://user-images.githubusercontent.com/60145175/110323812-1fcebb80-803b-11eb-8b04-2b1a838c01bf.png)
+![Screenshot (457)](https://user-images.githubusercontent.com/60145175/110324132-953a8c00-803b-11eb-9bfe-3d2f01ccb4ca.png)
 
 ![Screenshot (456)](https://user-images.githubusercontent.com/60145175/110323469-a8009100-803a-11eb-8b15-64b6624ffe27.png)
 

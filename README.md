@@ -4,8 +4,10 @@
 
 It is created using the graphics library of c.
 It is a short film with embedded subtitles in which a stickman tries to sneak in a gun and tries to kill his fellow stickman and loses his life in this attempt.
-Because his fellow stickman already taken notice of the gun and he counter attacks him.
-Moral of the story: Stickman figures cannot hide anything behind their back because its always visible no matter how hard they try.
+Because his fellow stickman already taken notice of the gun and he counterattacks him.
+Moral of the story: Stickman figures cannot hide anything behind their back because it's always visible no matter how hard they try.
+
+Youtube Link: https://youtu.be/zKybRgXydYE
 
 ## Output
 

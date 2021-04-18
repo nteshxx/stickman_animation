@@ -1,6 +1,6 @@
 
 
-# Stickman-Animation-using-C
+# Stickman Animation
 
 It is created using the graphics library of c.
 It is a short film with embedded subtitles in which a stickman tries to sneak in a gun and tries to kill his fellow stickman and loses his life in this attempt.

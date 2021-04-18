@@ -2,7 +2,7 @@
 
 # Stickman Animation
 
-It is created using the graphics library of c.
+It is created using the graphics library of c and basic looping logic.
 
 Youtube Link: https://youtu.be/zKybRgXydYE
 
